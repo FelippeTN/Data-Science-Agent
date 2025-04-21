@@ -1,4 +1,4 @@
-[📜 Ir para a versão em Português](#versão-em-português)
+[📜 Ir para a versão em Português](#pt-br)
 
 ## 🇺🇸 English Version
 
@@ -23,7 +23,7 @@ I’m a data scientist passionate about turning data into insights and sharing k
 
 ---
 
-## 🇧🇷 Versão em Português
+## 🇧🇷 Versão em Português <a name="pt-br"></a>
 
 # Estudos em Ciência de Dados
 
